@@ -8,3 +8,7 @@ public class A {
 	}
 
 }
+
+/*git remote add origin https://github.com/Pradip-Belgavkar/gitpradip.git
+git branch -M main
+ * */
